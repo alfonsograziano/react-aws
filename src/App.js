@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Let's deploy this on AWS 🚀
+          Let's deploy this on AWS 🚀 (staging env)
         </p>
         <a
           className="App-link"
